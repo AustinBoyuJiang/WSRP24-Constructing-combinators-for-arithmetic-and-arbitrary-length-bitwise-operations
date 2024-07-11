@@ -1,5 +1,7 @@
 # [WSRP24] Constructing combinators for arithmetic and arbitrary-length bitwise operations
 
+![The depth plot of combinator evolution](https://community.wolfram.com//c/portal/getImageAttachment?filename=cover.png&userId=3207931)
+
 Click the [project link](https://community.wolfram.com/groups/-/m/t/3216997) to see details.
 
 This is my research during the Wolfram High School Summer Research Program 2024
